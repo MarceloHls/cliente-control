@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .app{
+    height: 100vh;
+    display: grid;
+    grid-template-rows: 70px 1fr 35px;
+    grid-template-columns: 200px 1fr;
+    grid-template-areas:
+    'header header'
+    'menu main'
+    'footer footer';
+  }

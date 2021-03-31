@@ -1,0 +1,20 @@
+-header
+-menu
+	*Criar Cliente
+	*Localizar Cliente
+-main
+	*Lista de cliente
+		-Barra de busca
+		-Lista
+			-Cliente
+		-Chamada criar cliente
+	*Criar cliente
+	*Cliente
+		-Dados do Cliente
+		-Lista de aparelhos
+				-Aparelho
+		-Criar aparelho
+	*Criar aparelho
+	*Aparelho
+		
+-footer

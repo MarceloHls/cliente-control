@@ -1,0 +1,14 @@
+.device{
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.device .box{
+    height: 100px;
+    width: 200px;
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+   
+}

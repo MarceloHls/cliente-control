@@ -1,0 +1,11 @@
+.data-of-client {
+    border: 1px solid black;
+    display: flex;
+    height: 70px;
+    justify-content: space-around;
+
+}
+
+.data-of-client .box{
+      border: 1px solid black;
+}

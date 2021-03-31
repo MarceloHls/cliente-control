@@ -1,0 +1,36 @@
+#Tabelas
+
+1 - Cliente 
+	*Id
+	*Nome
+	*Numero
+	*Email
+	*Aparelhos
+
+2 - Aparelhos
+	*ID
+	*Cliente
+	*Marca
+	*Modelo
+	*Defeito
+	*Data recebida
+	*Prazo de entrega
+	*Valor custo
+	*Valor pago
+	*Dia do pagamento
+	*Garantia
+
+#ROTAS
+
+-Criar cliente
+-Buscar Clientes
+-Buscar Cliente
+-Adicionar Aparelho
+-Buscar Aparelhos
+-Buscar Aparelho
+-Editar Cliente
+-Editar Aparelho
+-Deletar Aparelho
+-Deletar Cliente
+
+

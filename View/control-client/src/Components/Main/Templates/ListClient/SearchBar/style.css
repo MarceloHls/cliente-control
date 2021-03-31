@@ -1,0 +1,9 @@
+.search-bar{
+    border: 1px solid black;
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    position: relative;
+    justify-content: center;
+}

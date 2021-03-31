@@ -1,0 +1,6 @@
+.footer{
+    border: 1px solid black;
+    grid-area: footer;
+    height: 100px;
+
+}
